@@ -1,0 +1,83 @@
+body{
+	background-image: url(../images/triangular/triangular.png);
+}
+.header {
+	background: orange;
+	padding: 20px 5px;
+	margin: 10px;
+	max-width: 400px;
+	color: white;
+	font-size: 50px;
+	text-align: center;
+	float: left;
+}
+.instructions {
+	background: #6666ff;
+	height: 400px;
+	font-size: 20px;
+	color: #00551f;
+	width: 600px;
+	padding: 30px;
+	margin: 10px;
+	content: "";
+	display: table;
+	clear: both;
+}
+.target {
+	padding: 10px;
+	background: #ffd58c;
+	width: 125px;
+	font-size: 20px;
+	text-align: center;
+	float: left;
+	height: 100px;
+	margin: 10px;
+}
+#target {
+	margin: 10px;
+	font-size: 40px;
+}
+#crystals {
+	height: 140px;
+}
+img {
+	height: 100px;
+	margin: 10px;
+}
+.winLosses {
+	background: #00cc00;
+	padding: 20px 5px;
+	margin: 10px;
+	font-size: 17px;
+	float: left;
+	height: 60px;
+	width: 90px;
+	width: 233px;
+}
+#wins, #losses {
+	padding: 20px;
+	float: left;
+	
+}
+#container {
+	padding: 20px 10px 0px 10px;
+	background: #ff3531;
+	width: 300px;
+	font-size: 50px;
+	text-align: center;
+	float: left;
+	height: 100px;
+	margin: 10px;
+	color: #35aeb4;
+}
+#winLoss {
+	padding: 20px 10px 0px 10px;
+	background: #35aeb4;
+	width: 300px;
+	font-size: 50px;
+	text-align: center;
+	float: left;
+	height: 100px;
+	margin: 10px;
+	color: #ff3531;
+}
